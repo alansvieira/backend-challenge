@@ -27,7 +27,7 @@ dotnet test
 
 Para executar api:
 ```
-dotnet run --project .\ItauPasswordChallenge.API
+dotnet run --project .\PasswordChallenge.API
 ```
 
 <sub><sup> *Uma vez com a api sendo executada, a porta utilizada será a 5001.</sub></sup>
