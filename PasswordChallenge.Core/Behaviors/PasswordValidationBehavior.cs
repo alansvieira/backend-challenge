@@ -1,11 +1,11 @@
-﻿using ItauPasswordChallenge.Core.Entities;
-using ItauPasswordChallenge.Core.Resources;
-using ItauPasswordChallenge.Infrastructure;
+﻿using PasswordChallenge.Core.Entities;
+using PasswordChallenge.Core.Resources;
+using PasswordChallenge.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ItauPasswordChallenge.Core.Behaviors
+namespace PasswordChallenge.Core.Behaviors
 {
     public class PasswordValidationBehavior : TextValidationBehavior<Password>
     {

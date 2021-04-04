@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ItauPasswordChallenge.Infrastructure
+namespace PasswordChallenge.Infrastructure
 {
     public class CharactersModule : ICharactersModule
     {

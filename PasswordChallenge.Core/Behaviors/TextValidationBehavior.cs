@@ -1,10 +1,10 @@
-﻿using ItauPasswordChallenge.Core.Entities;
+﻿using PasswordChallenge.Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ItauPasswordChallenge.Core.Behaviors
+namespace PasswordChallenge.Core.Behaviors
 {
     public class TextValidationBehavior<T> where T : IEntity
     {

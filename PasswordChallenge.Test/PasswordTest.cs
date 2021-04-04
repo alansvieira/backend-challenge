@@ -1,10 +1,10 @@
-using ItauPasswordChallenge.Core.Entities;
-using ItauPasswordChallenge.Core.Resources;
-using ItauPasswordChallenge.Infrastructure;
+using PasswordChallenge.Core.Entities;
+using PasswordChallenge.Core.Resources;
+using PasswordChallenge.Infrastructure;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace ItauPasswordChallenge.Test
+namespace PasswordChallenge.Test
 {
     [TestClass]
     public class PasswordTest

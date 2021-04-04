@@ -1,15 +1,11 @@
-﻿using ItauPasswordChallenge.Core;
-using ItauPasswordChallenge.Core.Entities;
-using ItauPasswordChallenge.Core.Services;
-using ItauPasswordChallenge.Infrastructure;
+﻿using PasswordChallenge.Core.Entities;
+using PasswordChallenge.Core.Services;
+using PasswordChallenge.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace ItauTest.Controllers
+namespace Test.Controllers
 {
     [ApiController]
     [Route("[controller]")]

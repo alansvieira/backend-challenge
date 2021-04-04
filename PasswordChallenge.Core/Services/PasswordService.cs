@@ -1,10 +1,10 @@
-﻿using ItauPasswordChallenge.Core.Entities;
-using ItauPasswordChallenge.Infrastructure;
+﻿using PasswordChallenge.Core.Entities;
+using PasswordChallenge.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ItauPasswordChallenge.Core.Services
+namespace PasswordChallenge.Core.Services
 {
     public class PasswordService
     {

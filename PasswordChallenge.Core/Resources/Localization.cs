@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ItauPasswordChallenge.Core.Resources
+namespace PasswordChallenge.Core.Resources
 {
     // I believe that this would fit better in a resx file (or perhaps in database), but as return validation errors 
     // it's not part of the initial requirements, I just did a 'cleaner' way to avoid magical strings

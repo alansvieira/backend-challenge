@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ItauPasswordChallenge.Core.Entities
+namespace PasswordChallenge.Core.Entities
 {    
     public interface IEntity
     {

@@ -1,13 +1,13 @@
-﻿using ItauPasswordChallenge.Core.Behaviors;
-using ItauPasswordChallenge.Core.Resources;
-using ItauPasswordChallenge.Infrastructure;
+﻿using PasswordChallenge.Core.Behaviors;
+using PasswordChallenge.Core.Resources;
+using PasswordChallenge.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Reflection;
 using System.Resources;
 using System.Text;
 
-namespace ItauPasswordChallenge.Core.Entities
+namespace PasswordChallenge.Core.Entities
 {
     // In the proposed challenge the expected return is only a Boolean value, however, 
     // as the design of the api is part of one of the evaluated items, I thought 

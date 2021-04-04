@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ItauPasswordChallenge.Infrastructure
+namespace PasswordChallenge.Infrastructure
 {
     public interface ICharactersModule
     {

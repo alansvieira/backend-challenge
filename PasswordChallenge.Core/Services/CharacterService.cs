@@ -1,10 +1,10 @@
-﻿using ItauPasswordChallenge.Infrastructure;
+﻿using PasswordChallenge.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ItauPasswordChallenge.Core
+namespace PasswordChallenge.Core
 {
     public class CharacterService
     {
