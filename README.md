@@ -1,7 +1,7 @@
 # Considerações Iniciais
 
 - O projeto foi desenvolvido em .Net Core 3.1 (https://dotnet.microsoft.com/download/dotnet/3.1);
-- Como o exemplo de código dado está em inglês, todo o código, com exceção apenas esse documento, está em **inglês** (incluindo alguns breves comentários);
+- Como o exemplo de código dado está em inglês, todo o código, com exceção apenas desse documento, está em **inglês** (incluindo alguns breves comentários);
 - A arquitetura utilizada foi inspirada na "Clean Arquiteture"(ish) criada por Robert Martin. Acrescentei o "ish" porque meu foco não foi no desenho da arquitetura do projeto e sim na solução proposta. Porém, achei  importante ter algum ponto de base, sendo que o design da API está sendo levado em conta;
 - Também por conta design da api estar sendo considerado, achei interessante ter uma estrutura básica de retorno do objeto que inclui: Dados, Metadados e Tratamento de erros;
 - O objetivo de criar uma entidade chamada "Password" foi de evitar a "Primitive Obsession" (https://enterprisecraftsmanship.com/posts/functional-c-primitive-obsession/) e também abrir portas para que essa entidade possa ser composta com outra entidade, por exemplo "Usuario".
